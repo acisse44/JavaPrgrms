@@ -1,0 +1,5 @@
+Banana 3.00
+IceCream 4.00
+Lotion 2.00
+Water 1.00
+Cereal 5.00
